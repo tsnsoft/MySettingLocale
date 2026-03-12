@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2026-03-12 12:47+0500\n"
+"PO-Revision-Date: 2026-03-12 12:47+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: kk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-KeywordsList: wxGetTranslation;_\n"
+"X-Generator: Poedit 3.9\n"
+"X-Poedit-SearchPath-0: gui.cpp\n"
+"X-Poedit-SearchPath-1: gui.h\n"
+"X-Poedit-SearchPath-2: main.cpp\n"
+"X-Poedit-SearchPath-3: main.h\n"
+"X-Poedit-SearchPath-4: controls.cpp\n"
+
+#: controls.cpp:10
+msgid "Здравствуйте"
+msgstr "Сәлеметсіз бе"
+
+#: controls.cpp:10
+msgid "Сообщение"
+msgstr "Хабарлама"
+
+#: gui.cpp:23
+msgid "Привет !"
+msgstr "Сәлем!"
+
+#: gui.cpp:27
+msgid "Я программа на русском языке"
+msgstr "Мен орыс тіліндегі бағдарламамын"
+
+#: gui.cpp:31
+msgid "Нажми на меня"
+msgstr "Маған басыңыз"
+
+#: gui.h:48
+msgid "Программа с локализацией"
+msgstr "Жергілікті бағдарлама"
