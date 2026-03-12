@@ -1,5 +1,5 @@
 # MySettingLocale
-Пример мультиязычной визуальной многооконной программы на C++ с использованием wxWidgets и RedPanda-CPP
+Программа с локализацией на нужный язык с wxWidgets для RedPanda-CPP
 
 ![srcreenshot](screenshot.png)
 
