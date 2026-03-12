@@ -1,5 +1,5 @@
 # MySettingLocale
-Программа с локализацией на нужный язык с wxWidgets для RedPanda-CPP
+Программа с локализацией на нужный язык для wxWidgets и RedPanda-CPP
 
 ![srcreenshot](screenshot.png)
 
